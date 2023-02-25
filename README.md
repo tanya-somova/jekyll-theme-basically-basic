@@ -1,4 +1,4 @@
-# [Basically Basic Jekyll Theme][1]
+# [PORTFOLIO Jekyll Theme][1]
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
@@ -6,7 +6,7 @@
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
 [![Donate to this project using Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/mmistakes)
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as 
+PORTFOLIO is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as 
 a substitute for the default [Minima](https://github.com/jekyll/minima), with a 
 few enhancements thrown in for good measure:
 
@@ -22,7 +22,7 @@ few enhancements thrown in for good measure:
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/mmistakes)
  [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 
-[![Basically Basic live preview][2]][1]
+[![PORTFOLIO live preview][2]][1]
 
 [1]: https://mmistakes.github.io/jekyll-theme-basically-basic/
 [2]: https://cloud.githubusercontent.com/assets/1376749/24117647/6dede894-0d81-11e7-9c2c-f19bea45e219.jpg (live preview)
@@ -101,7 +101,7 @@ safely remove the following files and folders:
 
 ## Upgrading
 
-If you're using the Ruby Gem or remote theme versions of Basically Basic, 
+If you're using the Ruby Gem or remote theme versions of PORTFOLIO, 
 upgrading is fairly painless.
 
 To check which version you are currently using, view the source of your built 
@@ -109,7 +109,7 @@ site and you should something similar to:
 
 ```
 <!--
-    Basically Basic Jekyll Theme 1.4.5
+    PORTFOLIO Jekyll Theme 1.4.5
     Copyright 2017-2018 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE
@@ -200,7 +200,7 @@ Layouts, includes, Sass partials, and data files are all placed in their default
 locations. Stylesheets and scripts in `assets`, and a few development related 
 files in the project's root directory.
 
-**Please note:** If you installed Basically Basic via the Ruby Gem method, theme 
+**Please note:** If you installed PORTFOLIO via the Ruby Gem method, theme 
 files found in `/_layouts`, `/_includes`, `/_sass`, and `/assets` will be 
 missing. This is normal as they are bundled with the [`jekyll-theme-basically-basic`](https://rubygems.org/gems/jekyll-theme-basically-basic) gem.
 
@@ -458,7 +458,7 @@ Author information is used as meta data for post "by lines" and propagates the
 author:
   name: John Doe
   twitter: johndoetwitter
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/profile.png
 ```
 
 Site-wide author information can be overridden in a document's front matter in 
@@ -536,7 +536,7 @@ production when using the following environment value: `JEKYLL_ENV=production`.
 ### Copyright
 
 By default the copyright line in the footer displays the current year 
-(at build time) followed by your site's title. e.g. `© 2018 Basically Basic.`
+(at build time) followed by your site's title. e.g. `© 2018 PORTFOLIO.`
 
 If you would like to change this add `copyright` to your `_config.yml` file 
 with appropriate text:
@@ -569,14 +569,14 @@ This layout accommodates the following front matter:
 
 ```yaml
 # optional alternate title to replace page.title at the top of the page
-alt_title: "Basically Basic"
+alt_title: "PORTFOLIO"
 
 # optional sub-title below the page title
 sub_title: "The name says it all"
 
 # optional intro text below titles, Markdown allowed
 introduction: |
-    Basically Basic is a Jekyll theme meant to be a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found in Minima are fully supported by **Basically Basic**.
+    PORTFOLIO is a Jekyll theme meant to be a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found in Minima are fully supported by **PORTFOLIO**.
 
 # optional call to action links
 actions:
@@ -712,7 +712,7 @@ addition of the following to display an author picture:
 ```yaml
 author:
   name: John Doe
-  picture: /assets/images/johndoe.png
+  picture: /assets/images/profile.png
 ```
 
 Recommended `picture` size is approximately `300 x 300` pixels. If `author` 
@@ -754,7 +754,7 @@ by placing a file with the same name into your project's `_includes` or
 
 - To specify a custom style path or meta data to the [`_includes/head.html `](_includes/head.html) 
 file, create an `_includes` directory in your project, copy 
-`_includes/head.html` from Basically Basic's gem folder to 
+`_includes/head.html` from PORTFOLIO's gem folder to 
 `<your_project>/_includes` and start editing that file.
 
 **ProTip:** to locate the theme's files on your computer run 
@@ -766,9 +766,9 @@ gem-based theme files.
 To override the default [Sass](http://sass-lang.com/guide) (located in theme's 
 `_sass` directory), do one of the following:
 
-1. Copy directly from the Basically Basic gem
+1. Copy directly from the PORTFOLIO gem
 
-   - Go to your local Basically Basic gem installation directory (run 
+   - Go to your local PORTFOLIO gem installation directory (run 
      `bundle info jekyll-theme-basically-basic` to get the path to it).
    - Copy the contents of `/assets/stylesheets/main.scss` from there to 
      `<your_project>`.
@@ -796,9 +796,9 @@ $accent-color: red;
 
 To override the default JavaScript bundled in the theme, do one of the following:
 
-1. Copy directly from the Basically Basic gem
+1. Copy directly from the PORTFOLIO gem
 
-   - Go to your local Basically Basic gem installation directory (run 
+   - Go to your local PORTFOLIO gem installation directory (run 
      `bundle info jekyll-theme-basically-basic` to get the path to it).
    - Copy the contents of `/assets/javascripts/main.js` from there to 
      `<your_project>`.
@@ -974,14 +974,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Basically Basic incorporates icons from [The Noun Project](https://thenounproject.com/).
+PORTFOLIO incorporates icons from [The Noun Project](https://thenounproject.com/).
 Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
 
-Basically Basic incorporates photographs from [Unsplash](https://unsplash.com).
+PORTFOLIO incorporates photographs from [Unsplash](https://unsplash.com).
 
-Basically Basic incorporates [Susy](http://susy.oddbird.net/),
+PORTFOLIO incorporates [Susy](http://susy.oddbird.net/),
 Copyright (c) 2017, Miriam Eric Suzanne.
 Susy is distributed under the terms of the [BSD 3-clause "New" or "Revised" License](https://opensource.org/licenses/BSD-3-Clause).
 
-Basically Basic incorporates [Breakpoint](http://breakpoint-sass.com/).
+PORTFOLIO incorporates [Breakpoint](http://breakpoint-sass.com/).
 Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opensource.org/licenses/MIT).

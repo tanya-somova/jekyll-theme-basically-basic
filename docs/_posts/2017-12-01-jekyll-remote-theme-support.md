@@ -6,7 +6,7 @@ tags:
   - Jekyll
 ---
 
-Basically Basic can now be installed remotely for use on GitHub Pages!
+PORTFOLIO can now be installed remotely for use on GitHub Pages!
 
 The days of having to forking this repo and manually manage updates are over. Simply install the [**jekyll-remote-theme**](https://github.com/benbalter/jekyll-remote-theme) plugin by doing the following and away you go.
 

@@ -6,7 +6,7 @@ about: "Is something not working as expected?"
 <!--
   Before opening a new issue please:
   
-  - Verify you have the latest versions of Jekyll and Basically Basic 
+  - Verify you have the latest versions of Jekyll and PORTFOLIO 
     installed by running `bundle update`.
   - Thoroughly read the theme's documentation at
     https://github.com/mmistakes/jekyll-theme-basically-basic
@@ -29,7 +29,7 @@ about: "Is something not working as expected?"
   file, or problematic site content. 
 -->
 
-- Basically Basic version:
+- PORTFOLIO version:
 - Ruby gem or remote theme version:
 - Jekyll version:
 - Git repository URL:

@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Tanya Somova",
+    "label": "Computational Designer",
+    "picture": "",
+    "email": "somova.tatjana@gmail.com",
+    "phone": "(64) 020-416-78318",
+    "website": "https://tanya-somova.github.io/",
+    "summary": "Architectural engineer and computational designer with 5 years working experience in built environment. Skilled in parametric and interactive design, automation, visual programming, complex building modelling and optimization.",
+    "location": {
+      "city": "Auckland",
+      "country": "New Zealand"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "tatjana-somova/",
+        "url": "https://www.linkedin.com/in/tatjana-somova/"
+      },
+      {
+        "network": "Instagram",
+        "username": "_tanya_somova",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mott MacDonald",
+      "position": "Computational Designer",
+      "website": "https://thewh.ip",
+      "startDate": "2018-09-10",
+      "endDate": "",
+      "summary": "",
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Ointment",
+      "area": "Digital Skillets",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Perpendicular Crosstalk",
+        "CS2011 - Introduction to Moisturization"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Audio Juggling",
+      "level": "Master",
+      "keywords": [
+        "Ointment",
+        "Voltor",
+        "Millipedes"
+      ]
+    },
+    {
+      "name": "Bruschotti",
+      "level": "Satisfactory",
+      "keywords": [
+        "Snow camp",
+        "Owl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nonsense",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "The Information Superhighway",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " Nannette Nananacci",
+      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
